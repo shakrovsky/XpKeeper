@@ -2,7 +2,7 @@
 
 На текущий момент реализовано:
 
-- [/me](#me)
+- [/me](#команда-me)
 - [/top](#top)
 - [/rules](#rules)
 - [/titles](#titles)
@@ -16,8 +16,8 @@
 
 ---
 
-## /me
-Описание команды `/me`.
+## команда /me
+![_me](https://github.com/user-attachments/assets/a960df01-3592-4d1d-bd13-d975c68820b8)
 
 ## /top
 Описание команды `/top`.
