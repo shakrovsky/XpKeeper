@@ -4,16 +4,16 @@
 - [Вступление пользователя в чат ›](#вступление-пользователя-в-чат)
 
 - [/me ›](#команда-me)
-- [/top ›](#top)
-- [/rules ›](#rules)
-- [/titles ›](#titles)
+- [/top ›](#команда-top)
+- [/rules ›](#команда-rules)
+- [/titles ›](#команда-titles)
 
-- [/add_xp ›](#add_xp)
-- [/cut_xp ›](#cut_xp)
-- [/penalty ›](#penalty)
+- [/add_xp ›](#команда-add_xp)
+- [/cut_xp ›](#команда-cut_xp)
+- [/penalty ›](#команда-penalty)
 
-- [/add_title ›](#add_title)
-- [/del_title ›](#del_title)
+- [/add_title ›](#команда-add_title)
+- [/del_title ›](#команда-del_title)
 
 ---
 
@@ -39,7 +39,7 @@ P.S. Каждый участник чата (кроме приближённых
 
 [‹ Обратно к оглавлению](#xpkeeper)
 
-## /top
+## Команда /top:
 <img width="366" height="377" alt="__top" src="https://github.com/user-attachments/assets/2641e9fc-f879-4db9-a7df-2cd13f2c3731" />
 
 Команда выводит список из 20 пользователей с наибольшим XP в порядке убывания.
@@ -50,7 +50,7 @@ P.S. Каждый участник чата (кроме приближённых
 
 [‹ Обратно к оглавлению](#xpkeeper)
 
-## /rules
+## Команда /rules:
 <img width="370" height="304" alt="__rules" src="https://github.com/user-attachments/assets/6819c36b-bc11-406c-b451-0c418f36785f" />
 
 Команда выводит правила чата.  
@@ -58,7 +58,7 @@ P.S. Каждый участник чата (кроме приближённых
 
 [‹ Обратно к оглавлению](#xpkeeper)
 
-## /titles
+## Команда /titles:
 <img width="489" height="340" alt="__titles" src="https://github.com/user-attachments/assets/d58910fa-c7c4-4a45-a414-31dec033554c" />
 <img width="575" height="225" alt="__titles_after_edit" src="https://github.com/user-attachments/assets/3afcbec0-e837-4749-b119-cc453215092c" />
 <img width="699" height="537" alt="__alert_true" src="https://github.com/user-attachments/assets/0a56312a-46d5-4d39-9b15-f45d5aac9277" />
