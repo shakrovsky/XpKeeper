@@ -17,6 +17,9 @@
 
 ---
 ## Новый участник в чате:
+<img width="763" height="301" alt="new_member" src="https://github.com/user-attachments/assets/fb930dd9-8161-4f47-9c03-2f6c0e2e36ca" />
+<img width="762" height="299" alt="old_member" src="https://github.com/user-attachments/assets/ab489176-ee0b-4d66-ba0b-8ee837b5ccdb" />
+
 
 ## Команда /me:
 
