@@ -16,8 +16,8 @@
 - [/del_title ›](#del_title)
 
 ---
-## Вступление пользователя в чат:
 
+## Вступление пользователя в чат:
 <img width="760" height="299" alt="new_member" src="https://github.com/user-attachments/assets/fb930dd9-8161-4f47-9c03-2f6c0e2e36ca" />
 <img width="760" height="299" alt="old_member" src="https://github.com/user-attachments/assets/ab489176-ee0b-4d66-ba0b-8ee837b5ccdb" />
 
@@ -28,8 +28,9 @@
 [‹ Обратно к оглавлению](#xpkeeper)
 
 ## Команда /me:
+<img width="435" height="275" alt="__me" src="https://github.com/user-attachments/assets/2772f5c8-86cf-46fa-8761-df08a49f4ec9" />
 
-Команда показывает текущий титул пользователя и его уровень XP.
+Команда показывает текущий титул пользователя и его уровень XP.  
 Под «титулом» понимается индивидуальная должность, которую можно назначить каждому администратору чата.
 
 P.S. Каждый участник чата (кроме приближённых) является администратором с минимальными правами.
