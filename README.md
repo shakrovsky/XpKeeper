@@ -16,7 +16,7 @@
 
 ---
 
-## команда /me
+## Команда /me:
 ![_me](https://github.com/user-attachments/assets/a960df01-3592-4d1d-bd13-d975c68820b8)
 
 ## /top
