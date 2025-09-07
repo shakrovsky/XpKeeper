@@ -59,7 +59,10 @@ P.S. Каждый участник чата (кроме приближённых
 [‹ Обратно к оглавлению](#xpkeeper)
 
 ## /titles
-Описание команды `/titles`.
+<img width="489" height="340" alt="__titles" src="https://github.com/user-attachments/assets/d58910fa-c7c4-4a45-a414-31dec033554c" />
+<img width="575" height="225" alt="__titles_after_edit" src="https://github.com/user-attachments/assets/3afcbec0-e837-4749-b119-cc453215092c" />
+<img width="699" height="537" alt="__alert_true" src="https://github.com/user-attachments/assets/0a56312a-46d5-4d39-9b15-f45d5aac9277" />
+
 
 ## /add_xp
 Описание команды `/add_xp`.
